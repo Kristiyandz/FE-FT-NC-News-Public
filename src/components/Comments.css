@@ -1,0 +1,20 @@
+#comments-title{
+  text-align: center;
+}
+#container-comments{
+  width: 50%;
+}
+.row-combody{
+  width: 100%;
+  background-color: whitesmoke;
+}
+#icon{
+  padding:5px;
+}
+.far.fa-times-circle:hover {background-color: #d6cfcf}
+
+.far.fa-times-cirlce:active {
+  background-color: #bac0ba;
+  box-shadow: 0 5px #666;
+  transform: translateY(2px);
+}

@@ -1,0 +1,39 @@
+#article-title{
+  height: 100%;
+  border-bottom: none;
+  background-color:#343a40!important;
+  font-size: 20px;
+  margin-top:5%;
+}
+/* #article-title a{
+font-size:20px;
+color:whitesmoke;
+ margin: 0 auto;
+ text-decoration: none;
+} */
+
+.link{
+  font-size: 30px;
+  padding: 10px;
+  color: whitesmoke;
+  text-align: center;
+}
+.link:hover{
+  color: rgb(187, 177, 177);
+}
+p{
+ text-align: center;
+ margin: 0 auto;
+ font-size: 20px;
+ text-decoration: none;
+ color: whitesmoke;
+}
+#row-articles {
+  height: 30px;
+  text-align: center;
+  text-decoration: none;
+}
+#cell{
+  background-color: rgb(133, 126, 126);
+  border: 1px solid whitesmoke;
+}

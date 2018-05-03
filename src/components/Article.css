@@ -1,0 +1,23 @@
+#article-body {
+  width: 50%;
+}
+.lead{
+  color: black;
+}
+#container-comments{
+  border: 1px solid black;
+}
+.far.fa-thumbs-up:hover {background-color: #d6cfcf}
+
+.far.fa-thumbs-up:active {
+  background-color: #bac0ba;
+  box-shadow: 0 5px #666;
+  transform: translateY(2px);
+}
+.far.fa-thumbs-down:hover {background-color: #d6cfcf}
+
+.far.fa-thumbs-down:active {
+  background-color: #bac0ba;
+  box-shadow: 0 5px #666;
+  transform: translateY(2px);
+}

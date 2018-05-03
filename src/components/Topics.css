@@ -1,0 +1,9 @@
+.list-group{
+  margin-top:20px;
+  width: 25%;
+}
+#articles{
+  width:500px;
+  height:500px;
+  background-color: red;
+}

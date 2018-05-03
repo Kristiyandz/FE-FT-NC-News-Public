@@ -1,0 +1,13 @@
+.av-users{
+  border: 1px solid red;
+  border-radius: 20px;
+};
+#users-row{
+  margin-top:5%;
+}
+#users{
+  margin-top: 3%;
+}
+#users li{
+  color: red;
+}
