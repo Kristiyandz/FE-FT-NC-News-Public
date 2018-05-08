@@ -9,7 +9,6 @@ class Articles extends Component {
     isLoading: true
   }
   componentWillMount() {
-    setTimeout(() => this.setState({ isLoading: false }), 1500);
     this.getAllArticles()
   }
   render() {
@@ -67,7 +66,7 @@ class Articles extends Component {
         let data = response.json();
         return data;
       })
-      .then(data => this.setState({ allArticles: data.articles }))
+      .then(data => this.setState({ allArticles: data.articles, isLoading: false }))
   };
 };
 export default Articles;
