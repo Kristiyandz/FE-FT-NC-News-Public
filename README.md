@@ -33,7 +33,7 @@ The deployment included:
 # Build With
 1. JavaScript - the main language used for this app
 2. React.js - a JavaScript library responsible for creating and displaying UI components
-3. Bootstrap 4 - mobile-first front-end framework, build to for easier web development by providing responsive styled templates
+3. Bootstrap 4 - mobile-first front-end framework, build for easier web development by providing responsive and styled templates
 4. VS Code - the IDE used for this project
 
 # Authors
